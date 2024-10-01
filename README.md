@@ -1,0 +1,1 @@
+This is a simple Machine learning model to predict employee attrition rate trained on IBM employee data, featuring predictions based on either logistic regression, decision tree, or random forest algorithms.
